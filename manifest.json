@@ -14,8 +14,8 @@
   "commands": {
     "most-recent-tab-command": {
       "suggested_key": {
-        "default": "Ctrl+e",
-        "linux": "Ctrl+e"
+        "default": "Ctrl+Shift+E",
+        "linux": "Ctrl+Shift+E"
       },
       "description": "Change to the most recent tab on this window."
     }
